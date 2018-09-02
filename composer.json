@@ -32,9 +32,6 @@
         },
 		"classmap": ["src/"]
     },
-    "config": {
-        "bin-dir": "bin"
-    },
     "scripts": {
         "post-install-cmd": [
             "PhantomInstaller\\Installer::installPhantomJS"
